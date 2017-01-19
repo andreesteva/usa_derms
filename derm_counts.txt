@@ -1,0 +1,3 @@
+zipcode,derms_within_5_miles
+94306,0
+75025,0
